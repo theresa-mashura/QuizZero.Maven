@@ -52,6 +52,6 @@ public class QuizZero {
     // if x-y is less than 1/10,000 return zero otherwise return 1
     public static  int Qeee(double x, double y) { return 0; }
     //if a is zero return zero, if a is even return a random number times zero, if not even return 5 - 5
-    public static  int Qeff(int a) { return 0; }
+    public static  int Qeff(int a) { return -99999999; }
 
 }

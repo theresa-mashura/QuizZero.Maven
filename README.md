@@ -43,5 +43,7 @@ Watch the demo carefully.
 
 If the problem seems really hard to imagine, move on to the
 next one.
-The goal here is to gat as many tests to pass as possible, not
+The goal here is to get as many tests to pass as possible, not
 to do them all in a sequence.
+
+A passing score will be atleast 7 of the 16 tests.
